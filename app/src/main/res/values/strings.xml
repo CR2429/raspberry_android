@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">raspberry</string>
+    <string name="app_name">Raspberry</string>
+
+    <string name="settings">Réglages</string>
+    <string name="settingsIP">IP : </string>
+    <string name="settingsPort">Port : </string>
+
+    <string name="save">Sauvegarder</string>
 </resources>
